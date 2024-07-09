@@ -30,6 +30,6 @@
 ## 
 
 <div align="center">
-  <img width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhingorani22197&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" />
-  <img width="500" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=harshhingorani22197&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhingorani22197&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" />
+  <img width="400" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=harshhingorani22197&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
